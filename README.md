@@ -16,7 +16,7 @@ The Encrypted Password Manager is a Python-based program designed to securely st
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/encrypted-password-manager.git
+   git clone https://github.com/kanojiashubham/encrypted-password-manager.git
    ```
 
 2. **Navigate to the Project Directory**:
