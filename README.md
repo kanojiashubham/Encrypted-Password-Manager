@@ -1,8 +1,8 @@
-# Encrypted Password Manager
+# Password Manager
 
 ## Overview
 
-The Encrypted Password Manager is a Python-based program designed to securely store and manage your passwords. It employs strong encryption techniques to ensure the confidentiality of your sensitive information.
+This Password Manager is a Python-based program designed to securely store and manage your passwords. It employs strong encryption techniques to ensure the confidentiality of your sensitive information.
 
 ## Features
 
@@ -16,12 +16,12 @@ The Encrypted Password Manager is a Python-based program designed to securely st
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kanojiashubham/encrypted-password-manager.git
+   git clone https://github.com/kanojiashubham/password-manager.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd encrypted-password-manager
+   cd password-manager
    ```
 
 3. **Install Dependencies**:
