@@ -6,54 +6,47 @@ This Password Manager is a Python-based program designed to securely store and m
 
 ## Features
 
-- **Strong Encryption**: Utilizes advanced encryption algorithms to safeguard your passwords.
-- **User-Friendly Interface**: Graphical User Interface for easy navigation and interaction.
-- **Password Generation**: Generate strong, unique passwords to enhance your account security.
-- **Data Integrity**: Ensures the integrity of stored data through checksums and error handling.
-- **Cross-Platform Compatibility**: Works seamlessly on various operating systems.
+- **Save Credentials:** Save website, email, and password information securely.
+- **Search:** Search for saved credentials by entering the website name.
+- **Copy Password:** Copy the password to the clipboard for easy usage.
+- **Generate Password:** Create strong and random passwords with the click of a button.
 
-## Getting Started
+## Requirements
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/kanojiashubham/password-manager.git
-   ```
+- Python 3.x
 
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd password-manager
-   ```
+## How to Run
 
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+1. Clone the repository:
 
-4. **Run the Program**:
-   ```bash
-   python password_manager.py
-   ```
+    ```bash
+    git clone https://github.com/yourusername/password-manager.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd password-manager
+    ```
+
+3. Run the application:
+
+    ```bash
+    python password_manager.py
+    ```
 
 ## Usage
 
-Follow the on-screen instructions to set up your master password and start managing your passwords securely.
+1. Fill in the website, email, and password fields.
+2. Click the "Save" button to save the credentials.
+3. To search for credentials, enter the website name and click the "Search" button.
+4. Click the "Copy Password" button to copy the password to the clipboard.
+5. Use the "Generate Password" button to create strong and random passwords.
 
-## Contributing
+## Acknowledgements
 
-We welcome contributions! If you'd like to contribute to the project, please follow these steps:
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) - The standard GUI toolkit for Python.
+- [Python Random Module](https://docs.python.org/3/library/random.html) - Used for generating random passwords.
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and submit a pull request.
-
-Please ensure your code follows the project's coding standards and includes relevant tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to contributors and open-source libraries that made this project possible.
-
-Feel free to reach out if you have any questions or encounter issues. Happy password managing!
+Thanks,
+Happy Coding :)
